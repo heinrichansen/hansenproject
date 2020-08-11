@@ -1,5 +1,5 @@
-var passwordTrue = 'Iloveu1234'
-var passwordFalse = 'ILOVEU'
+var passwordTrue = 'Urban1234'
+var passwordFalse = 'URBAN'
 function detectPassword(val){
     var cutPass=val.split('');
     var upperCase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
